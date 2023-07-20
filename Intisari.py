@@ -1,8 +1,6 @@
-# [+] Update By BrayennnXD And All
+# [+] Update By loveamanda And All
 # [+] Script Free Jangan Di Perjual Belikan Ya
-# [+] Donasi Untuk BrayennnXD 
-# [+] Dana : 089622155832
-# [+] Thanks Buat Yang Dah Bantu Donasi 😁
+
 
 #------------------[ IMPORT MODULE ]-------------------#
 import requests,bs4,json,os,sys,random,datetime,time,re,urllib3,rich,base64,subprocess,uuid
@@ -195,8 +193,8 @@ def clear():
 #------------------[ LOGO-LAKNAT ]-----------------#
 def banner():
 	cetak(panel(f"""[bold green]                ___  ____ ____ _   _ ____ _  _ _  _ _  _ 
-[bold green]                |__] |__/ |__|  \_/  |___ |\ | |\ | |\ | 
-[bold green]                |__] |  \ |  |   |   |___ | \| | \| | \|                                                                                                        
+[bold green]                loveamanda loveamanda loveamanda loveamanda 
+[bold green]                loveamanda loveamanda loveamanda loveamanda                                                                                                        
              """,width=90,padding=(0,8),title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login123():
